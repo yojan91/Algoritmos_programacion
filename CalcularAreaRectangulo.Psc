@@ -1,4 +1,5 @@
 Algoritmo CalcularAreaRectangulo
+    // Yojan
 	// 1. Entrada
 	Escribir "Ingrese la base:"
 	Leer base
