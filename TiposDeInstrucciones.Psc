@@ -1,4 +1,5 @@
 Algoritmo TiposDeInstrucciones
+    // yojan Sarmiento 
 	// Instrucciones de Declaracion
 	Definir x, a, resultado Como Entero
 	
