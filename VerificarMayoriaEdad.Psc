@@ -1,4 +1,5 @@
 Algoritmo VerificarMayoriaEdad
+    // yojan Sarmiento 
 	Escribir "Ingrese el año actual:"
 	Leer anioActual
 	Escribir "Ingrese su año de nacimiento:"
