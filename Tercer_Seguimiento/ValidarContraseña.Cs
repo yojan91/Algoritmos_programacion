@@ -10,7 +10,7 @@ public class Helloworld {
 
         do
         {
-            Console.WriteLine("Ingrese la contraseña");
+            Console.WriteLine("Ingrese la contraseña: ");
             clave = Console.ReadLine();
             if (clave != passCorrecta) {
                 intentosFallidos++;
